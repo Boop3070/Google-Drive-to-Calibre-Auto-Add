@@ -34,7 +34,6 @@ This should now be scanning your google drive folder(and sub-folders) for any up
 
 Things to know:
   - The first time you run it the plugin will not add anything to Calibre, it will seed all current files and only add when new files are added in the gdrive folder.
-  - The log window is a bit buggy when restarting and doesn't resume the logging, however it will still continue to work. If you want to see the logs again just close and reopen the watcher.
   - Future update might have an option to not seed anything the first time around.
 
 ## If you want to use the external app instead of the plugin, maybe as just a file mirror not specifically for Calibre, follow these steps.
