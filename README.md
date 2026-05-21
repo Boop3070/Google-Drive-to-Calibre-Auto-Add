@@ -1,4 +1,4 @@
-# Calibre-to-Google-Drive-Auto-Add
+# Google-Drive-to-Calibre-Auto-Add
 Calibre doesn't work well with Google Drive, so I made a somewhat janky workaround to use for myself. Scans a folder of your choosing in Google drive and mirrors onto a folder for Calibre to use its auto add feature.
 
 <ins> Download Google Drive Desktop from [here](https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe) </ins>
